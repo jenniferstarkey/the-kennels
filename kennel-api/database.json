@@ -1,0 +1,76 @@
+{
+    "animals": [
+        {
+            "id": 1,
+            "name": "Doodles",
+            "breed": "Poodle",
+            "customerId": 1,
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Baymax",
+            "breed": "Great Dane",
+            "customerId": 2,
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Kida",
+            "breed": "Husky",
+            "customerId": 3,
+            "locationId": 2
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Hannah Hall",
+            "address": "7002 Chestnut Ct"
+        },
+        {
+            "id": 2,
+            "name": "Maxwell Smith",
+            "address": "101 Main St"
+        },
+        {
+            "id": 3,
+            "name": "Kasey Winter",
+            "address": "42 Walaby Way"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Marilyn Monroe",
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Alex Hunter",
+            "locationId": 2
+        },
+        {
+            "id": 3,
+            "name": "Joshua Johnson",
+            "locationId": 1
+        },
+        {
+            "id": 4,
+            "name": "Rebekah Martin",
+            "locationId": 1
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "name": "Nashville North",
+            "address": "8422 Johnson Pike"
+        },
+        {
+            "id": 2,
+            "name": "Nashville South",
+            "address": "209 Emory Drive"
+        }
+    ]
+}
